@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//user input sum calculation
 int main () {
     int n, sum = 0;
     cout <<"Enter a positive integer:";
